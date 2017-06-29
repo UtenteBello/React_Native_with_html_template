@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/lunghezzadonda/Desktop/Products_ldo/Products/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.cpp \
+  /Users/lunghezzadonda/Desktop/Products_ldo/Products/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.h \
+  /Users/lunghezzadonda/Desktop/Products_ldo/Products/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/lunghezzadonda/Desktop/Products_ldo/Products/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h
